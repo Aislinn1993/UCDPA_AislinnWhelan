@@ -1,3 +1,0 @@
-# UCDPA_AislinnWhelan
-Data Analytics Project
-This digital marketing project takes an in-depth look into my company’s social media strategy. The aim of the project is to determine what social platform (Linkedin or Instagram) performs the best for the company, and what type of content gauges the best engagement. The outcome of the project will help create a strategy that fosters better engagement on the basis of analysing what has worked vs what does not work for the company’s social media audience. In addition, the project pulls in a live News streaming API to help determine topical trends in the news to create new content. 
